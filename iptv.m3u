@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/e.xml"
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1" tvg-logo="" group-title="央视",CCTV-1
 http://120.70.60.179:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV1
+http://119.62.24.75:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1-综合" tvg-logo="" group-title="央视",CCTV1-综合
 http://221.7.49.226:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2" tvg-logo="" group-title="央视",CCTV-2
@@ -9,8 +11,6 @@ http://120.70.60.179:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://119.62.24.75:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2-财经" tvg-logo="" group-title="央视",CCTV2-财经
 http://221.7.49.226:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-3" tvg-logo="" group-title="央视",CCTV-3
-http://120.70.60.179:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3-综艺" tvg-logo="" group-title="央视",CCTV3-综艺
 http://221.7.49.226:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="" group-title="央视",CCTV-4
@@ -39,8 +39,8 @@ http://221.7.49.226:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.70.60.179:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8-电视剧" tvg-logo="" group-title="央视",CCTV8-电视剧
 http://221.7.49.226:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="央视",CCTV9
-http://119.62.24.75:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="" group-title="央视",CCTV-9
+http://120.70.60.179:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9-纪录" tvg-logo="" group-title="央视",CCTV9-纪录
 http://221.7.49.226:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-10" tvg-logo="" group-title="央视",CCTV-10
@@ -49,6 +49,8 @@ http://120.70.60.179:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 http://119.62.24.75:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10-科教" tvg-logo="" group-title="央视",CCTV10-科教
 http://221.7.49.226:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="央视",CCTV13
+http://119.62.24.75:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13-新闻" tvg-logo="" group-title="央视",CCTV13-新闻
 http://221.7.49.226:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="央视",CCTV14
@@ -101,9 +103,7 @@ http://221.7.49.226:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 http://119.62.24.75:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视 [源2:甘肃省天水市秦州]" tvg-logo="" group-title="卫视",河南卫视 [源2:甘肃省天水市秦州]
 http://221.7.49.226:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视 [源1:云南省昆明市呈贡]" tvg-logo="" group-title="卫视",浙江卫视 [源1:云南省昆明市呈贡]
-http://119.62.24.75:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视 [源2:甘肃省天水市秦州]" tvg-logo="" group-title="卫视",浙江卫视 [源2:甘肃省天水市秦州]
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
 http://221.7.49.226:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视 [源1:云南省昆明市呈贡]" tvg-logo="" group-title="卫视",湖北卫视 [源1:云南省昆明市呈贡]
 http://119.62.24.75:50085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
